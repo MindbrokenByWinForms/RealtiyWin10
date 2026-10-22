@@ -1,0 +1,6 @@
+Reference inputs used during reverse engineering (SHA-256):
+SSYNENG.VXD   32d0f4179a1d0f0a06766c15d050091224b806676fe3bb1386de9ef713475309
+SSYNMIDI.DRV  1b238198d44195198daa4193814215bdca9dd970e89a9aec577672191bb3198d
+
+Included relocated engine pack:
+ssyneng.rehost 293556447a893f72f252942944b98ad5a42b71293a6c3f6a711c3a3d09f0769b
